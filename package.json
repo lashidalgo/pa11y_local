@@ -1,0 +1,18 @@
+{
+  "name": "pa11y",
+  "version": "1.0.0",
+  "description": "Run pa11y on local files",
+  "main": "app.js",
+  "repository" : { 
+    "type" : "git" , "url" : "https://github.com/Manest/pa11y_local"
+  },
+  "dependencies": {
+    "glob": "*",
+    "express": "^4.13.3"
+  }, 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yoann.augen@gmail.com",
+  "license": "ISC"
+}
